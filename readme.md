@@ -1,5 +1,5 @@
-# whiskey-drop-website
+# Whiskey Drop
 
-## This is a customised landing page for my 'whiskey drop' example website
+## This is a customised landing page for my 'whiskey drop' example website, created using the Bootstrap framework but then further customised with css
 
-### created on my CodeInstitute course
+### From the Bootstrap module of my CodeInstitute course 
